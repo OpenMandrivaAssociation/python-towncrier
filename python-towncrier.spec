@@ -3,7 +3,7 @@
 
 Name:           python-%{pypi_name}
 Version:        19.2.0
-Release:        1
+Release:        2
 Summary:        Building newsfiles for your project
 Group:          Development/Python
 License:        MIT
