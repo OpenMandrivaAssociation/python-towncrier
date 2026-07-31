@@ -1,6 +1,6 @@
 Name:		python-towncrier
-Version:	24.8.0
-Release:	2
+Version:	25.8.0
+Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/t/towncrier/towncrier-%{version}.tar.gz
 Summary:	Building newsfiles for your project.
 URL:		https://pypi.org/project/towncrier/
@@ -19,7 +19,7 @@ BuildArch:	noarch
 Building newsfiles for your project.
 
 %prep
-%autosetup -p1 -n towncrier-%{version}
+%autosetup -p1 -n towncrier-25.8.0
 
 %files
 %{_bindir}/towncrier
